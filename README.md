@@ -1,4 +1,4 @@
-### 만드는 중이니깐 기다리쇼
+### Working on it
 
 <!--
 **Gunhot/Gunhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
