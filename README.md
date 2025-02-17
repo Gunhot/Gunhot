@@ -31,7 +31,7 @@ I am a passionate AI and Blockchain developer with experience in deep learning, 
 
 ## 📫 Contact
 Feel free to reach out to me via GitHub or LinkedIn!
-
+- https://www.linkedin.com/in/kun-hwa-lee-9414b1332/
 ---
 Thank you for visiting my GitHub profile! 🚀
 
