@@ -8,6 +8,10 @@ I am a passionate AI and Blockchain developer with experience in deep learning, 
 - Developed ensemble models for vision tasks and conducted quantization for YOLO models with Android embedding.
 - Worked on Human Detection, Face Recognition, Emotion Recognition, Action Recognition, and Gaze Estimation tasks.
 - Built and deployed a Retrieval-Augmented Generation (RAG) system using Triton Inference Server, Llama3, Milvus, and Redis.
+
+### Seoul National University, VMO Federated Learning Team (Mar. 2025 ~)
+- Federated Learning optimization and Model Privacy.
+
 ### Developing an autonomous driving model
 - First place  
 
