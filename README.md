@@ -29,7 +29,7 @@ I am a passionate AI and Blockchain developer with experience in deep learning, 
 ## 🐍 Awards
 - Awarded a consolation prize in the POSTECH Solar Power Generation Prediction Competition (Oct. 2023).
 - Third place in a hackathon with 1,500 participants: Developed a project summarizing YouTube videos and related news articles (Aug. 2023).
-- Featured in a news article: [효자동 개발자](https://n.news.naver.com/article/417/0000944514?sid=105)
+  - Featured in a news article: [효자동 개발자](https://n.news.naver.com/article/417/0000944514?sid=105)
 
 ## 📫 Contact
 Feel free to reach out to me via GitHub or LinkedIn!
