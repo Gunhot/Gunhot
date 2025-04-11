@@ -13,7 +13,7 @@ I am a passionate AI and Blockchain developer with experience in deep learning, 
 - Federated Learning optimization and Model Privacy.
 
 ### Developing an autonomous driving model
-- First place  
+- First place (CNN + AdamW, Modular Pipeline)
 
 ### Data Science Student Association, INSIGHT (Sep. 2023 ~ Jun. 2024)
 - President (Jan. 2024 ~ Aug. 2024)
