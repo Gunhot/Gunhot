@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 ## 🚀 About Me
-I am a passionate AI and Blockchain developer with experience in deep learning, LLM, computer vision, Web3.0 development, and backend engineering. I have worked on various projects ranging from AI model quantization, Federated Learning to ZKML-based blockchain applications. I am also an enthusiastic tutor and mentor, sharing my knowledge with students and peers.
+I am a passionate AI developer with experience in Federated Learning, ZKML, deep learning, LLM, computer vision and backend engineering. I have worked on various projects ranging from AI model quantization, Federated Learning to ZKML-based blockchain applications. I am also an enthusiastic tutor and mentor, sharing my knowledge with students and peers.
 
 ## 📌 Experiences
 ### Korea Institute of Science and Technology (KIST), Intelligent Interaction Center (Jun. 2024 ~ Dec. 2024)
@@ -24,7 +24,6 @@ I am a passionate AI and Blockchain developer with experience in deep learning, 
 
 ### Korea University Institute BlockChainValley (Aug. 2024 ~)
 - Flock.io Validator
-- Backend and smart contract developer for a Web3.0 dating application
 
 ## 🐍 Awards
 - Awarded a consolation prize in the POSTECH Solar Power Generation Prediction Competition (Oct. 2023).
