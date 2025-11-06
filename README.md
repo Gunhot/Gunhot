@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 ## 🚀 About Me
-I am a passionate AI developer with experience in Federated Learning, ZKML, deep learning, LLM, computer vision and backend engineering. I have worked on various projects ranging from AI model quantization, Federated Learning to ZKML-based blockchain applications. I am also an enthusiastic tutor and mentor, sharing my knowledge with students and peers.
+I am a AI developer working on master degree in SNU. I have experience in Federated Learning, ZKML, LLM, computer vision and backend engineering. I have worked on projects ranging from model quantization to Infernece optimization in Triton Inference Server. I am also an enthusiastic tutor and mentor, sharing my knowledge with students and peers.
 
 ## 📌 Experiences
 ### Seoul National University, VMO Federated Learning Team (Mar. 2025 ~)
