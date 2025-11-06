@@ -4,13 +4,13 @@
 I am a passionate AI developer with experience in Federated Learning, ZKML, deep learning, LLM, computer vision and backend engineering. I have worked on various projects ranging from AI model quantization, Federated Learning to ZKML-based blockchain applications. I am also an enthusiastic tutor and mentor, sharing my knowledge with students and peers.
 
 ## 📌 Experiences
+### Seoul National University, VMO Federated Learning Team (Mar. 2025 ~)
+- Federated Learning optimization and Model Privacy.
+
 ### Korea Institute of Science and Technology (KIST), Intelligent Interaction Center (Jun. 2024 ~ Dec. 2024)
 - Developed ensemble models for vision tasks and conducted quantization for YOLO models with Android embedding.
 - Worked on Human Detection, Face Recognition, Emotion Recognition, Action Recognition, and Gaze Estimation tasks.
 - Built and deployed a Retrieval-Augmented Generation (RAG) system using Triton Inference Server, Llama3, Milvus, and Redis.
-
-### Seoul National University, VMO Federated Learning Team (Mar. 2025 ~)
-- Federated Learning optimization and Model Privacy.
 
 ### Developing an autonomous driving model
 - First place (CNN + AdamW, Modular Pipeline)
@@ -33,7 +33,7 @@ I am a passionate AI developer with experience in Federated Learning, ZKML, deep
 ## 📫 Contact
 Feel free to reach out to me via GitHub or LinkedIn!
 - https://www.linkedin.com/in/kun-hwa-lee-9414b1332/
-- lkh0107@sogang.ac.kr
+- lkh0107@snu.ac.kr
   
 ---
 Thank you for visiting my GitHub profile! 🚀
